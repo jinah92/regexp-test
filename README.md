@@ -1,5 +1,7 @@
 # 정규표현식 (RegExpression)
 
+학습용 기록
+
 ### 역할
 
 - 문자 검색 (search)
